@@ -9,3 +9,8 @@ How to change file creaion/modified time using touch
 ```
 sudo touch -t 201809150200 CM_dump_NM-LEM01_201807310200.csv
 ```
+allows a user to set certain attributes of a file residing on a Linux file system.
+----------------------------------------------------------------------------------
+```
+chattr -i 001_SP1708/
+```
