@@ -58,3 +58,10 @@ Finally, save the script for the new format taking effect and exit the vi progra
 ```
 : x
 ```
+
+Linux top process list
+----------------------
+```
+top
+```
+
