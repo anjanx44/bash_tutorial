@@ -65,3 +65,11 @@ Linux top process list
 top
 ```
 
+process list with grep
+------------------------
+```
+ps -ef | grep zip
+```
+
+
+
