@@ -43,15 +43,18 @@ du -h --max-depth=1
 
 -bash bad interpreter: No such file or directory
 ----------------------------------------
-
+```
 vi /path/to/scriptfile
-
+```
 When file is opened, change the format of the script to the right one by entering
+```
 : set fileformat=unix
-
+```
 or just simply
-
+```
 : set ff=unix
-
+```
 Finally, save the script for the new format taking effect and exit the vi program by entering
+```
 : x
+```
